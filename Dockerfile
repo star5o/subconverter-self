@@ -9,7 +9,7 @@ RUN apk add tzdata && \
     echo "Asia/Shanghai" > /etc/timezone && \
     apk del tzdata
 
-COPY groups.txt rulesets.txt /base/snippets/
+COPY ACL4SSR_self_Online_Full.ini /base/config/
 
 EXPOSE 25500
 
