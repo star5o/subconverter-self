@@ -30,7 +30,9 @@ DOMAIN-SUFFIX,usefathom.com
 DOMAIN-SUFFIX,recraft.ai
 
 #poe
+DOMAIN-KEYWORD,poe
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,cf2.poecdn.net
 
 
 #bing chat
