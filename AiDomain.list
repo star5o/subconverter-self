@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 
+
+#perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+
 #claude
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
