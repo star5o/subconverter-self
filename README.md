@@ -5,7 +5,8 @@
 
 - **DIRECT** 无需增加`url config=`参数即可使用自定义配置组.
 - **增加**`POE;Gemini/Aistudio;Claude`等人工智能分组.
-- **修改时区** 镜像默认时区为 Asia/Shanghai
+- **增加**`微信服务`分组，使\*\*禁用微信的单位也可以走代理使用微信.
+- **修改时区** 镜像默认时区为 Asia/Shanghai.
 
 ## 更新
 - **2025-01-05** 初版.
@@ -15,6 +16,12 @@
 ```shell
 git clone https://github.com/YaKaiLi/subconverter-self
 docker-compose up -d
+```
+
+## 使用
+
+```shell
+http://localhost:25500/sub?target=clash&url=`订阅链接URL编码`
 ```
 
 ### subweb + subconverter 合并进阶版
