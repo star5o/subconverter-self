@@ -3,7 +3,7 @@
 基于 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 和 [stilleshan/subconverter](https://github.com/stilleshan/subconverter) 项目的 docker 镜像.
 仅修改 **分组配置文件** 和**默认config文件** 以解决以下问题.
 
-- **DIRECT** 无需增加`url config=`参数即可使用自定义配置组.
+- **DIRECT** 无需增加`url config=`参数即可使用`main.ini`配置文件.
 - **增加**`POE;Gemini/Aistudio;Claude`等人工智能分组.
 - **增加**`微信服务`分组，使\*\*禁用微信的单位也可以走代理使用微信.
 - **修改时区** 镜像默认时区为 Asia/Shanghai.
