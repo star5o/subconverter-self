@@ -21,11 +21,8 @@ docker-compose up -d
 ## 使用
 
 ```shell
-http://localhost:25500/sub?target=clash&url=`订阅链接URL编码`
+http://localhost:25500/sub?target=clash&url=订阅链接URL编码
 ```
-
-### subweb + subconverter 合并进阶版
-详情查看 [stilleshan/sub](https://github.com/stilleshan/dockerfiles/tree/main/sub)
 
 ## 链接
 - [stilleshan/subconverter](https://github.com/stilleshan/subconverter)
