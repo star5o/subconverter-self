@@ -11,17 +11,26 @@
 ## 更新
 - **2025-01-05** 初版.
 
-## 部署
+## 本地使用
+
+### 部署
 
 ```shell
 git clone https://github.com/YaKaiLi/subconverter-self
 docker-compose up -d
 ```
 
-## 使用
+### 使用
 
-```shell
+```url
 http://localhost:25500/sub?target=clash&url=订阅链接URL编码
+```
+
+### 其他在线后端使用
+
+`config`跟以下参数
+```url
+https://raw.githubusercontent.com/YaKaiLi/subconverter-self/refs/heads/master/main.ini
 ```
 
 ## 链接
