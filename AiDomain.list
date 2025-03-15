@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 
+#openrouter
+DOMAIN-KEYWORD,openrouter
+DOMAIN-SUFFIX,openrouter.ai
+
 #cursor
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
