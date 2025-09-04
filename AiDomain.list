@@ -1,5 +1,5 @@
 
-# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity
+# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity,genspark
 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,cursorapi.com
 
 #perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+
+#genspark.ai
+DOMAIN-SUFFIX,genspark.ai
 
 #claude
 DOMAIN-KEYWORD,claude
