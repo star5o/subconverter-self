@@ -1,5 +1,5 @@
 
-# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity,genspark
+# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity,genspark,grok
 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
@@ -150,3 +150,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+
+#Grok 
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,grok.com
