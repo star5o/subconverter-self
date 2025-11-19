@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,rwww.bing.com
 #Gemini
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,antigravity
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,developerprofiles
