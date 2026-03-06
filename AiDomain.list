@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,blob.core.windows.net
 
 #openrouter
 DOMAIN-KEYWORD,openrouter
