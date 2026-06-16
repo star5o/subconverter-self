@@ -1,6 +1,10 @@
 
 # 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity,genspark,grok
 
+DOMAIN-KEYWORD,reclaude
+DOMAIN-SUFFIX,reclaude.ai
+DOMAIN-SUFFIX,reclaude.cat
+
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,auth0.com
